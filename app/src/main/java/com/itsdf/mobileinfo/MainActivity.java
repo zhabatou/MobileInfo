@@ -33,7 +33,7 @@ public class MainActivity extends Activity {
 		Log.d("sdf", "[MainActivity] onCreate : getDeviceInfo = " + getDeviceInfo(this));
 
 	}
-
+	#hello
 	@Override
 	public void onWindowFocusChanged(boolean hasFocus) {
 		super.onWindowFocusChanged(hasFocus);
